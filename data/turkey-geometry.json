@@ -1,0 +1,1013 @@
+{
+ "generated": "2026-10-17T08:20:19.479Z",
+ "items": [
+  {
+   "cc": "MAR",
+   "name": "Historic Areas of Istanbul",
+   "lat": 41.0065,
+   "lon": 28.9765,
+   "src": "curated"
+  },
+  {
+   "cc": "MAR",
+   "name": "Hagia Sophia",
+   "lat": 41.0086,
+   "lon": 28.9802,
+   "src": "curated"
+  },
+  {
+   "cc": "MAR",
+   "name": "Blue Mosque (Sultan Ahmed)",
+   "lat": 41.0054,
+   "lon": 28.9768,
+   "src": "curated"
+  },
+  {
+   "cc": "MAR",
+   "name": "Topkapı Palace",
+   "lat": 41.0115,
+   "lon": 28.9834,
+   "src": "curated"
+  },
+  {
+   "cc": "MAR",
+   "name": "Grand Bazaar",
+   "lat": 41.0108,
+   "lon": 28.968,
+   "src": "curated"
+  },
+  {
+   "cc": "MAR",
+   "name": "Basilica Cistern",
+   "lat": 41.0084,
+   "lon": 28.9779,
+   "src": "curated"
+  },
+  {
+   "cc": "MAR",
+   "name": "Süleymaniye Mosque",
+   "lat": 41.0162,
+   "lon": 28.9639,
+   "src": "curated"
+  },
+  {
+   "cc": "MAR",
+   "name": "Galata Tower & Beyoğlu",
+   "lat": 41.0256,
+   "lon": 28.9741,
+   "src": "curated"
+  },
+  {
+   "cc": "MAR",
+   "name": "Dolmabahçe Palace",
+   "lat": 41.0392,
+   "lon": 29,
+   "src": "curated"
+  },
+  {
+   "cc": "MAR",
+   "name": "Bosphorus cruise",
+   "lat": 41.0552,
+   "lon": 29.027,
+   "src": "curated"
+  },
+  {
+   "cc": "MAR",
+   "name": "Balat & Fener",
+   "lat": 41.029,
+   "lon": 28.949,
+   "src": "curated"
+  },
+  {
+   "cc": "MAR",
+   "name": "Kadıköy & Moda",
+   "lat": 40.99,
+   "lon": 29.027,
+   "src": "curated"
+  },
+  {
+   "cc": "MAR",
+   "name": "Princes' Islands (Büyükada)",
+   "lat": 40.857,
+   "lon": 29.12,
+   "src": "curated"
+  },
+  {
+   "cc": "MAR",
+   "name": "Chora Church (Kariye)",
+   "lat": 41.0312,
+   "lon": 28.9392,
+   "src": "curated"
+  },
+  {
+   "cc": "MAR",
+   "name": "Archaeological Site of Troy",
+   "lat": 39.9575,
+   "lon": 26.2389,
+   "src": "curated"
+  },
+  {
+   "cc": "MAR",
+   "name": "Gallipoli Peninsula",
+   "lat": 40.237,
+   "lon": 26.283,
+   "src": "curated"
+  },
+  {
+   "cc": "MAR",
+   "name": "Assos (Behramkale)",
+   "lat": 39.49,
+   "lon": 26.337,
+   "src": "curated"
+  },
+  {
+   "cc": "MAR",
+   "name": "Bozcaada",
+   "lat": 39.835,
+   "lon": 26.07,
+   "src": "curated"
+  },
+  {
+   "cc": "MAR",
+   "name": "Selimiye Mosque & Complex",
+   "lat": 41.678,
+   "lon": 26.559,
+   "src": "curated"
+  },
+  {
+   "cc": "MAR",
+   "name": "Edirne Old Town",
+   "lat": 41.677,
+   "lon": 26.556,
+   "src": "curated"
+  },
+  {
+   "cc": "MAR",
+   "name": "İznik",
+   "lat": 40.43,
+   "lon": 29.72,
+   "src": "curated"
+  },
+  {
+   "cc": "MAR",
+   "name": "Bursa historic core",
+   "lat": 40.1855,
+   "lon": 29.0555,
+   "src": "curated"
+  },
+  {
+   "cc": "MAR",
+   "name": "Cumalıkızık",
+   "lat": 40.175,
+   "lon": 29.172,
+   "src": "curated"
+  },
+  {
+   "cc": "MAR",
+   "name": "Bursa Ulu Cami & Koza Han",
+   "lat": 40.1839,
+   "lon": 29.0617,
+   "src": "curated"
+  },
+  {
+   "cc": "MAR",
+   "name": "Uludağ",
+   "lat": 40.07,
+   "lon": 29.22,
+   "src": "curated"
+  },
+  {
+   "cc": "AEG",
+   "name": "Hierapolis-Pamukkale",
+   "lat": 37.923,
+   "lon": 29.12,
+   "src": "curated"
+  },
+  {
+   "cc": "AEG",
+   "name": "Ephesus",
+   "lat": 37.9395,
+   "lon": 27.3417,
+   "src": "curated"
+  },
+  {
+   "cc": "AEG",
+   "name": "Pergamon",
+   "lat": 39.132,
+   "lon": 27.184,
+   "src": "curated"
+  },
+  {
+   "cc": "AEG",
+   "name": "Aphrodisias",
+   "lat": 37.708,
+   "lon": 28.725,
+   "src": "curated"
+  },
+  {
+   "cc": "AEG",
+   "name": "Sardis & Bin Tepe",
+   "lat": 38.488,
+   "lon": 28.04,
+   "src": "curated"
+  },
+  {
+   "cc": "AEG",
+   "name": "Basilica of St John & İsa Bey Mosque",
+   "lat": 37.95,
+   "lon": 27.367,
+   "src": "curated"
+  },
+  {
+   "cc": "AEG",
+   "name": "Şirince",
+   "lat": 37.945,
+   "lon": 27.433,
+   "src": "curated"
+  },
+  {
+   "cc": "AEG",
+   "name": "İzmir Kordon & Konak",
+   "lat": 38.4237,
+   "lon": 27.1428,
+   "src": "curated"
+  },
+  {
+   "cc": "AEG",
+   "name": "Kemeraltı Bazaar",
+   "lat": 38.42,
+   "lon": 27.135,
+   "src": "curated"
+  },
+  {
+   "cc": "AEG",
+   "name": "Kuşadası",
+   "lat": 37.858,
+   "lon": 27.26,
+   "src": "curated"
+  },
+  {
+   "cc": "AEG",
+   "name": "Priene–Miletus–Didyma",
+   "lat": 37.53,
+   "lon": 27.28,
+   "src": "curated"
+  },
+  {
+   "cc": "AEG",
+   "name": "Bodrum Castle & Mausoleum",
+   "lat": 37.034,
+   "lon": 27.43,
+   "src": "curated"
+  },
+  {
+   "cc": "AEG",
+   "name": "Bodrum beaches & nightlife",
+   "lat": 37.12,
+   "lon": 27.33,
+   "src": "curated"
+  },
+  {
+   "cc": "AEG",
+   "name": "Çeşme & Alaçatı",
+   "lat": 38.28,
+   "lon": 26.37,
+   "src": "curated"
+  },
+  {
+   "cc": "AEG",
+   "name": "Foça",
+   "lat": 38.67,
+   "lon": 26.75,
+   "src": "curated"
+  },
+  {
+   "cc": "AEG",
+   "name": "Ayvalık & Cunda",
+   "lat": 39.32,
+   "lon": 26.66,
+   "src": "curated"
+  },
+  {
+   "cc": "AEG",
+   "name": "Afyonkarahisar Ulu Cami",
+   "lat": 38.756,
+   "lon": 30.539,
+   "src": "curated"
+  },
+  {
+   "cc": "AEG",
+   "name": "Sagalassos",
+   "lat": 37.678,
+   "lon": 30.52,
+   "src": "curated"
+  },
+  {
+   "cc": "MED",
+   "name": "Xanthos",
+   "lat": 36.356,
+   "lon": 29.318,
+   "src": "curated"
+  },
+  {
+   "cc": "MED",
+   "name": "Letoon",
+   "lat": 36.335,
+   "lon": 29.29,
+   "src": "curated"
+  },
+  {
+   "cc": "MED",
+   "name": "Antalya Kaleiçi",
+   "lat": 36.884,
+   "lon": 30.705,
+   "src": "curated"
+  },
+  {
+   "cc": "MED",
+   "name": "Antalya Museum",
+   "lat": 36.885,
+   "lon": 30.68,
+   "src": "curated"
+  },
+  {
+   "cc": "MED",
+   "name": "Düden Waterfalls",
+   "lat": 36.96,
+   "lon": 30.73,
+   "src": "curated"
+  },
+  {
+   "cc": "MED",
+   "name": "Perge",
+   "lat": 36.96,
+   "lon": 30.85,
+   "src": "curated"
+  },
+  {
+   "cc": "MED",
+   "name": "Aspendos",
+   "lat": 36.939,
+   "lon": 31.172,
+   "src": "curated"
+  },
+  {
+   "cc": "MED",
+   "name": "Side",
+   "lat": 36.768,
+   "lon": 31.389,
+   "src": "curated"
+  },
+  {
+   "cc": "MED",
+   "name": "Alanya Castle & Cleopatra Beach",
+   "lat": 36.544,
+   "lon": 31.998,
+   "src": "curated"
+  },
+  {
+   "cc": "MED",
+   "name": "Olympos & Yanartaş",
+   "lat": 36.396,
+   "lon": 30.472,
+   "src": "curated"
+  },
+  {
+   "cc": "MED",
+   "name": "Phaselis",
+   "lat": 36.524,
+   "lon": 30.552,
+   "src": "curated"
+  },
+  {
+   "cc": "MED",
+   "name": "Termessos",
+   "lat": 36.982,
+   "lon": 30.465,
+   "src": "curated"
+  },
+  {
+   "cc": "MED",
+   "name": "Köprülü Canyon",
+   "lat": 37.19,
+   "lon": 31.18,
+   "src": "curated"
+  },
+  {
+   "cc": "MED",
+   "name": "Kaş",
+   "lat": 36.202,
+   "lon": 29.642,
+   "src": "curated"
+  },
+  {
+   "cc": "MED",
+   "name": "Kekova & Simena",
+   "lat": 36.19,
+   "lon": 29.85,
+   "src": "curated"
+  },
+  {
+   "cc": "MED",
+   "name": "Patara",
+   "lat": 36.26,
+   "lon": 29.32,
+   "src": "curated"
+  },
+  {
+   "cc": "MED",
+   "name": "Fethiye",
+   "lat": 36.621,
+   "lon": 29.116,
+   "src": "curated"
+  },
+  {
+   "cc": "MED",
+   "name": "Ölüdeniz & Blue Lagoon",
+   "lat": 36.55,
+   "lon": 29.12,
+   "src": "curated"
+  },
+  {
+   "cc": "MED",
+   "name": "Butterfly Valley",
+   "lat": 36.51,
+   "lon": 29.1,
+   "src": "curated"
+  },
+  {
+   "cc": "MED",
+   "name": "Saklıkent Gorge",
+   "lat": 36.47,
+   "lon": 29.4,
+   "src": "curated"
+  },
+  {
+   "cc": "MED",
+   "name": "Dalyan & İztuzu Beach",
+   "lat": 36.834,
+   "lon": 28.642,
+   "src": "curated"
+  },
+  {
+   "cc": "MED",
+   "name": "Marmaris",
+   "lat": 36.855,
+   "lon": 28.274,
+   "src": "curated"
+  },
+  {
+   "cc": "MED",
+   "name": "Göcek",
+   "lat": 36.753,
+   "lon": 28.94,
+   "src": "curated"
+  },
+  {
+   "cc": "MED",
+   "name": "Myra & St Nicholas Church",
+   "lat": 36.259,
+   "lon": 29.985,
+   "src": "curated"
+  },
+  {
+   "cc": "MED",
+   "name": "Kızkalesi & Cennet-Cehennem",
+   "lat": 36.46,
+   "lon": 34.14,
+   "src": "curated"
+  },
+  {
+   "cc": "MED",
+   "name": "Tarsus",
+   "lat": 36.917,
+   "lon": 34.895,
+   "src": "curated"
+  },
+  {
+   "cc": "MED",
+   "name": "Antakya & St Pierre Church",
+   "lat": 36.202,
+   "lon": 36.16,
+   "src": "curated"
+  },
+  {
+   "cc": "CAN",
+   "name": "Göreme National Park & Rock Sites of Cappadocia",
+   "lat": 38.643,
+   "lon": 34.829,
+   "src": "curated"
+  },
+  {
+   "cc": "CAN",
+   "name": "Göreme Open-Air Museum",
+   "lat": 38.64,
+   "lon": 34.845,
+   "src": "curated"
+  },
+  {
+   "cc": "CAN",
+   "name": "Uçhisar Castle",
+   "lat": 38.631,
+   "lon": 34.806,
+   "src": "curated"
+  },
+  {
+   "cc": "CAN",
+   "name": "Derinkuyu Underground City",
+   "lat": 38.373,
+   "lon": 34.735,
+   "src": "curated"
+  },
+  {
+   "cc": "CAN",
+   "name": "Kaymaklı Underground City",
+   "lat": 38.376,
+   "lon": 34.733,
+   "src": "curated"
+  },
+  {
+   "cc": "CAN",
+   "name": "Paşabağ & Devrent",
+   "lat": 38.64,
+   "lon": 34.88,
+   "src": "curated"
+  },
+  {
+   "cc": "CAN",
+   "name": "Avanos",
+   "lat": 38.715,
+   "lon": 34.847,
+   "src": "curated"
+  },
+  {
+   "cc": "CAN",
+   "name": "Ürgüp",
+   "lat": 38.631,
+   "lon": 34.913,
+   "src": "curated"
+  },
+  {
+   "cc": "CAN",
+   "name": "Ihlara Valley",
+   "lat": 38.24,
+   "lon": 34.3,
+   "src": "curated"
+  },
+  {
+   "cc": "CAN",
+   "name": "Selime Monastery",
+   "lat": 38.3,
+   "lon": 34.3,
+   "src": "curated"
+  },
+  {
+   "cc": "CAN",
+   "name": "Soğanlı Valley",
+   "lat": 38.4,
+   "lon": 35.3,
+   "src": "curated"
+  },
+  {
+   "cc": "CAN",
+   "name": "Mevlana Museum & Tomb",
+   "lat": 37.871,
+   "lon": 32.504,
+   "src": "curated"
+  },
+  {
+   "cc": "CAN",
+   "name": "Karatay Madrasa",
+   "lat": 37.874,
+   "lon": 32.493,
+   "src": "curated"
+  },
+  {
+   "cc": "CAN",
+   "name": "Sille",
+   "lat": 37.93,
+   "lon": 32.42,
+   "src": "curated"
+  },
+  {
+   "cc": "CAN",
+   "name": "Neolithic Site of Çatalhöyük",
+   "lat": 37.667,
+   "lon": 32.828,
+   "src": "curated"
+  },
+  {
+   "cc": "CAN",
+   "name": "Eşrefoğlu Mosque",
+   "lat": 37.677,
+   "lon": 31.726,
+   "src": "curated"
+  },
+  {
+   "cc": "CAN",
+   "name": "Anıtkabir",
+   "lat": 39.925,
+   "lon": 32.837,
+   "src": "curated"
+  },
+  {
+   "cc": "CAN",
+   "name": "Museum of Anatolian Civilizations",
+   "lat": 39.937,
+   "lon": 32.86,
+   "src": "curated"
+  },
+  {
+   "cc": "CAN",
+   "name": "Ankara Castle & Hamamönü",
+   "lat": 39.94,
+   "lon": 32.865,
+   "src": "curated"
+  },
+  {
+   "cc": "CAN",
+   "name": "Gordion",
+   "lat": 39.654,
+   "lon": 31.978,
+   "src": "curated"
+  },
+  {
+   "cc": "CAN",
+   "name": "Ahi Şerafeddin (Arslanhane) Mosque",
+   "lat": 39.94,
+   "lon": 32.87,
+   "src": "curated"
+  },
+  {
+   "cc": "CAN",
+   "name": "Odunpazarı",
+   "lat": 39.77,
+   "lon": 30.525,
+   "src": "curated"
+  },
+  {
+   "cc": "CAN",
+   "name": "Sivrihisar Ulu Cami",
+   "lat": 39.45,
+   "lon": 31.536,
+   "src": "curated"
+  },
+  {
+   "cc": "CAN",
+   "name": "Great Mosque & Hospital of Divriği",
+   "lat": 39.371,
+   "lon": 38.114,
+   "src": "curated"
+  },
+  {
+   "cc": "CAN",
+   "name": "Sivas Historic Centre",
+   "lat": 39.75,
+   "lon": 37.015,
+   "src": "curated"
+  },
+  {
+   "cc": "CAN",
+   "name": "Erciyes",
+   "lat": 38.53,
+   "lon": 35.45,
+   "src": "curated"
+  },
+  {
+   "cc": "CAN",
+   "name": "Kayseri Bazaar & Kültepe",
+   "lat": 38.72,
+   "lon": 35.485,
+   "src": "curated"
+  },
+  {
+   "cc": "CAN",
+   "name": "Tuz Gölü (Lake Tuz)",
+   "lat": 38.75,
+   "lon": 33.38,
+   "src": "curated"
+  },
+  {
+   "cc": "BLS",
+   "name": "Hattusha: the Hittite Capital",
+   "lat": 40.02,
+   "lon": 34.615,
+   "src": "curated"
+  },
+  {
+   "cc": "BLS",
+   "name": "Alacahöyük",
+   "lat": 40.235,
+   "lon": 34.695,
+   "src": "curated"
+  },
+  {
+   "cc": "BLS",
+   "name": "City of Safranbolu",
+   "lat": 41.25,
+   "lon": 32.685,
+   "src": "curated"
+  },
+  {
+   "cc": "BLS",
+   "name": "Amasra",
+   "lat": 41.746,
+   "lon": 32.386,
+   "src": "curated"
+  },
+  {
+   "cc": "BLS",
+   "name": "Kastamonu & Mahmut Bey Mosque",
+   "lat": 41.4,
+   "lon": 33.77,
+   "src": "curated"
+  },
+  {
+   "cc": "BLS",
+   "name": "Sinop",
+   "lat": 42.026,
+   "lon": 35.153,
+   "src": "curated"
+  },
+  {
+   "cc": "BLS",
+   "name": "Amasya",
+   "lat": 40.653,
+   "lon": 35.833,
+   "src": "curated"
+  },
+  {
+   "cc": "BLS",
+   "name": "Samsun",
+   "lat": 41.29,
+   "lon": 36.33,
+   "src": "curated"
+  },
+  {
+   "cc": "BLS",
+   "name": "Ordu Boztepe",
+   "lat": 40.984,
+   "lon": 37.879,
+   "src": "curated"
+  },
+  {
+   "cc": "BLS",
+   "name": "Giresun",
+   "lat": 40.912,
+   "lon": 38.389,
+   "src": "curated"
+  },
+  {
+   "cc": "BLS",
+   "name": "Trabzon Hagia Sophia",
+   "lat": 41.003,
+   "lon": 39.72,
+   "src": "curated"
+  },
+  {
+   "cc": "BLS",
+   "name": "Sümela Monastery",
+   "lat": 40.691,
+   "lon": 39.658,
+   "src": "curated"
+  },
+  {
+   "cc": "BLS",
+   "name": "Uzungöl",
+   "lat": 40.62,
+   "lon": 40.29,
+   "src": "curated"
+  },
+  {
+   "cc": "BLS",
+   "name": "Ayder Plateau",
+   "lat": 40.95,
+   "lon": 41.1,
+   "src": "curated"
+  },
+  {
+   "cc": "BLS",
+   "name": "Kaçkar Mountains",
+   "lat": 40.85,
+   "lon": 41.2,
+   "src": "curated"
+  },
+  {
+   "cc": "BLS",
+   "name": "Rize tea gardens",
+   "lat": 41.02,
+   "lon": 40.52,
+   "src": "curated"
+  },
+  {
+   "cc": "BLS",
+   "name": "Abant Lake",
+   "lat": 40.61,
+   "lon": 31.28,
+   "src": "curated"
+  },
+  {
+   "cc": "BLS",
+   "name": "Yedigöller National Park",
+   "lat": 40.94,
+   "lon": 31.75,
+   "src": "curated"
+  },
+  {
+   "cc": "BLS",
+   "name": "Karagöl Sahara",
+   "lat": 41.35,
+   "lon": 42.1,
+   "src": "curated"
+  },
+  {
+   "cc": "EAN",
+   "name": "Archaeological Site of Ani",
+   "lat": 40.507,
+   "lon": 43.572,
+   "src": "curated"
+  },
+  {
+   "cc": "EAN",
+   "name": "Kars",
+   "lat": 40.601,
+   "lon": 43.097,
+   "src": "curated"
+  },
+  {
+   "cc": "EAN",
+   "name": "Erzurum",
+   "lat": 39.904,
+   "lon": 41.27,
+   "src": "curated"
+  },
+  {
+   "cc": "EAN",
+   "name": "Palandöken",
+   "lat": 39.85,
+   "lon": 41.25,
+   "src": "curated"
+  },
+  {
+   "cc": "EAN",
+   "name": "Van Castle",
+   "lat": 38.5,
+   "lon": 43.34,
+   "src": "curated"
+  },
+  {
+   "cc": "EAN",
+   "name": "Akdamar Church",
+   "lat": 38.341,
+   "lon": 43.036,
+   "src": "curated"
+  },
+  {
+   "cc": "EAN",
+   "name": "Muradiye Waterfalls",
+   "lat": 39.02,
+   "lon": 43.75,
+   "src": "curated"
+  },
+  {
+   "cc": "EAN",
+   "name": "İshak Pasha Palace",
+   "lat": 39.52,
+   "lon": 44.13,
+   "src": "curated"
+  },
+  {
+   "cc": "EAN",
+   "name": "Mount Ararat",
+   "lat": 39.702,
+   "lon": 44.299,
+   "src": "curated"
+  },
+  {
+   "cc": "EAN",
+   "name": "Arslantepe Mound",
+   "lat": 38.382,
+   "lon": 38.361,
+   "src": "curated"
+  },
+  {
+   "cc": "EAN",
+   "name": "Malatya",
+   "lat": 38.355,
+   "lon": 38.309,
+   "src": "curated"
+  },
+  {
+   "cc": "EAN",
+   "name": "Hazar Lake",
+   "lat": 38.48,
+   "lon": 39.4,
+   "src": "curated"
+  },
+  {
+   "cc": "EAN",
+   "name": "Kemaliye",
+   "lat": 39.26,
+   "lon": 38.5,
+   "src": "curated"
+  },
+  {
+   "cc": "SAN",
+   "name": "Nemrut Dağ",
+   "lat": 37.981,
+   "lon": 38.741,
+   "src": "curated"
+  },
+  {
+   "cc": "SAN",
+   "name": "Diyarbakır Fortress & Hevsel Gardens",
+   "lat": 37.915,
+   "lon": 40.24,
+   "src": "curated"
+  },
+  {
+   "cc": "SAN",
+   "name": "Diyarbakır Ulu Cami & Sur",
+   "lat": 37.912,
+   "lon": 40.239,
+   "src": "curated"
+  },
+  {
+   "cc": "SAN",
+   "name": "Göbekli Tepe",
+   "lat": 37.223,
+   "lon": 38.922,
+   "src": "curated"
+  },
+  {
+   "cc": "SAN",
+   "name": "Balıklıgöl",
+   "lat": 37.148,
+   "lon": 38.784,
+   "src": "curated"
+  },
+  {
+   "cc": "SAN",
+   "name": "Harran",
+   "lat": 36.86,
+   "lon": 39.03,
+   "src": "curated"
+  },
+  {
+   "cc": "SAN",
+   "name": "Şanlıurfa Bazaar & Cuisine",
+   "lat": 37.16,
+   "lon": 38.79,
+   "src": "curated"
+  },
+  {
+   "cc": "SAN",
+   "name": "Zeugma Mosaic Museum",
+   "lat": 37.066,
+   "lon": 37.379,
+   "src": "curated"
+  },
+  {
+   "cc": "SAN",
+   "name": "Gaziantep Castle & Bakırcılar",
+   "lat": 37.066,
+   "lon": 37.382,
+   "src": "curated"
+  },
+  {
+   "cc": "SAN",
+   "name": "Mardin Old Town",
+   "lat": 37.313,
+   "lon": 40.735,
+   "src": "curated"
+  },
+  {
+   "cc": "SAN",
+   "name": "Deyrulzafaran Monastery",
+   "lat": 37.3,
+   "lon": 40.79,
+   "src": "curated"
+  },
+  {
+   "cc": "SAN",
+   "name": "Midyat & Tur Abdin",
+   "lat": 37.42,
+   "lon": 41.37,
+   "src": "curated"
+  },
+  {
+   "cc": "SAN",
+   "name": "Hasankeyf",
+   "lat": 37.714,
+   "lon": 41.414,
+   "src": "curated"
+  },
+  {
+   "cc": "SAN",
+   "name": "Kahta",
+   "lat": 37.78,
+   "lon": 38.62,
+   "src": "curated"
+  }
+ ]
+}

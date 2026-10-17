@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Türkiye Tourist Sites · 土耳其旅游地图</title>
+<meta name="description" content="Interactive map of Türkiye — all 22 UNESCO World Heritage properties and Lonely Planet highlights, with bilingual entries. 土耳其互动旅游地图：全部22处世界遗产与旅行亮点。" />
+<link rel="stylesheet" href="css/style.css" />
+<script src="https://unpkg.com/maplibre-gl@4.7.1/dist/maplibre-gl.js"></script>
+<script>
+window.maplibregl || document.write('<script src="https://cdn.jsdelivr.net/npm/maplibre-gl@4.7.1/dist/maplibre-gl.js"><\/script>');
+</script>
+</head>
+<body>
+<div class="topbar">
+  <h1>Türkiye<span class="zh">土耳其</span></h1>
+  <p id="meta-line">Tourist sites · 旅游景点</p>
+</div>
+
+<div id="map"></div>
+
+<button id="sidebar-handle" class="sidebar-handle" type="button" aria-label="Toggle list">☰ 列表</button>
+
+<aside id="sidebar" class="sidebar">
+  <div class="sidebar-header">
+    <h2 id="list-title">Places 景点</h2>
+    <div class="sidebar-actions">
+      <button id="clear-btn" class="clear-btn" type="button">Clear 清除</button>
+      <button id="sidebar-close" class="sidebar-close" type="button" aria-label="Close">✕</button>
+    </div>
+  </div>
+  <div class="sidebar-tools">
+    <input id="search" type="text" placeholder="Search 搜索景点…" autocomplete="off" />
+    <div id="tag-chips" class="chips"></div>
+    <div id="legend" class="legend"></div>
+  </div>
+  <div id="list"></div>
+</aside>
+
+<div id="detail" class="detail hidden">
+  <div class="detail-bar">
+    <span id="detail-bar-title" class="detail-bar-title"></span>
+    <button id="lang-toggle" class="lang-toggle" type="button">中文</button>
+    <button id="detail-toggle" class="detail-toggle" type="button" aria-label="Collapse intro">▾</button>
+  </div>
+  <div id="detail-content"></div>
+</div>
+
+<div id="map-warning" class="map-warning" style="display:none"></div>
+<div id="loading">Loading 加载中…</div>
+
+<script src="js/app.js"></script>
+</body>
+</html>
